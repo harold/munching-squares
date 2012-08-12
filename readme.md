@@ -1,1 +1,1 @@
-An extremely quick and somewhat-satisfying implementation of munching squares in HTML5 using canvas.
+An extremely quick and somewhat-satisfying implementation of munching squares in html5 using canvas.
