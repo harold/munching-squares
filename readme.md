@@ -1,0 +1,1 @@
+An extremely quick and somewhat-satisfying implementation of munching squares in HTML5 using canvas.
